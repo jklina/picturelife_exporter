@@ -4,7 +4,7 @@ A simple, hacked together gem for downloading all images on a Picturelife accoun
 
 ## Installation
 
-    $ gem install ./picturelife_exporter.gem
+To install this gem onto your local machine, clone the repo to your machine, navigate to the project's directory and run `bundle exec rake install`.
 
 ## Usage
 Once installed you should be able to run it directly from your commandline.
