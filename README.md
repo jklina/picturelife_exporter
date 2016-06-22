@@ -1,28 +1,14 @@
 # PicturelifeExporter
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/picturelife_exporter`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A simple, hacked together gem for downloading all images on a Picturelife account.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'picturelife_exporter'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install picturelife_exporter
 
 ## Usage
 
-TODO: Write usage instructions here
+_pl_session_id=cdbcfeef18c1dcd684554bcfc0b3fc34
 
 ## Development
 
